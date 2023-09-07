@@ -76,8 +76,8 @@ body{
   color: hsl(240, 6%, 50%);
   user-select: text;
   opacity: 0;
-  max-height: 0;
-  transition: max-height 0.8s ease, opacity 0.8s ease;
+  height: 0;
+  transition: height 2.0s ease, opacity 1.0s ease;
 }
 
 .content h2{
@@ -98,6 +98,7 @@ body{
   justify-content: space-between;
   align-items: center;
   position: relative;
+  transition: all 0.5s ease;
 }
 
 .line{
@@ -116,5 +117,4 @@ body{
   transform: translateY(3.5px);
   cursor: pointer;
   transform: rotate(180deg);
-  transition: all 0.5s ease;
 }
