@@ -18,7 +18,7 @@ To pratice how to use **JavaScript DOM** for web development
 - desktop
 
   <img src = './screenshot/preview.gif'>
-
+  <img src = '[./screenshot/preview.gif](https://i.imgur.com/jTPLZxO.png)'>
 
 ## Tech(no framework)
 
